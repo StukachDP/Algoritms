@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b910aa43-8d94-4622-a506-9a117a2e0857" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SortAlgoritms" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hpBJSUCo8ithHU9KTDzFsRe2b8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Algoritms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algoritms" />
+      <module name="SortAlgoritms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SortAlgoritms.Main" />
+      <module name="SortAlgoritms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.SortAlgoritms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GraphWork.Main" />
+      <module name="SortAlgoritms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.GraphWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SortAlgoritms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Algoritms" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b910aa43-8d94-4622-a506-9a117a2e0857" name="Default Changelist" comment="" />
+      <created>1600698080511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600698080511</updated>
+      <workItem from="1600698105427" duration="3141000" />
+      <workItem from="1600794093046" duration="744000" />
+      <workItem from="1600795244747" duration="3028000" />
+      <workItem from="1602001675538" duration="10454000" />
+      <workItem from="1602015267136" duration="6464000" />
+      <workItem from="1602066811366" duration="1702000" />
+      <workItem from="1602075439436" duration="2414000" />
+      <workItem from="1602430525944" duration="6158000" />
+      <workItem from="1602680876536" duration="1090000" />
+      <workItem from="1603570301288" duration="872000" />
+      <workItem from="1603797694289" duration="131000" />
+      <workItem from="1604438120590" duration="2203000" />
+      <workItem from="1604482603329" duration="2917000" />
+      <workItem from="1605026508697" duration="1596000" />
+      <workItem from="1605552492919" duration="21000" />
+      <workItem from="1605552859235" duration="73000" />
+      <workItem from="1605555810976" duration="8088000" />
+      <workItem from="1605623120076" duration="1184000" />
+      <workItem from="1605625238405" duration="7000" />
+      <workItem from="1605626524301" duration="3461000" />
+      <workItem from="1605646510928" duration="7916000" />
+      <workItem from="1605702015354" duration="4073000" />
+      <workItem from="1606239244646" duration="3334000" />
+      <workItem from="1606247117539" duration="5575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1600698185941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1600698185941" />
+    <state x="457" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1606239963175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606239963175" />
+    <state width="1323" height="228" key="GridCell.Tab.0.bottom" timestamp="1606252751003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606252751003" />
+    <state width="1323" height="228" key="GridCell.Tab.0.center" timestamp="1606252751003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606252751003" />
+    <state width="1323" height="228" key="GridCell.Tab.0.left" timestamp="1606252751003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606252751003" />
+    <state width="1323" height="228" key="GridCell.Tab.0.right" timestamp="1606252751003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606252751003" />
+    <state width="1323" height="228" key="GridCell.Tab.1.bottom" timestamp="1606252751003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606252751003" />
+    <state width="1323" height="228" key="GridCell.Tab.1.center" timestamp="1606252751003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1606252751003" />
+    <state width="1323" height="228" key="GridCell.Tab.1.left" timestamp="1606252751003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1606252751003" />
+    <state width="1323" height="228" key="GridCell.Tab.1.right" timestamp="1606252751003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606252751003" />
+    <state x="65" y="0" key="new project wizard" timestamp="1603797826541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1603797826541" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606248199221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606248199221" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="matrixOfChildren[turn[turnCounter]]" language="JAVA" />
+        <watch expression="wordMatrix[turn[turnCounter]]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SortAlgoritms$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1602016319373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.SortAlgoritms.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SortAlgoritms$Main.ic" NAME="Main Coverage Results" MODIFIED="1602014314865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
