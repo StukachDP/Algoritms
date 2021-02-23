@@ -58,14 +58,14 @@ function makingDotLifestyle() {
         noteArrayCreating[i] = [];
         for (let j = 0; j < indexH; j++) {
 
-            var neighborsCount = neighborsCounting(i, j);
+            let neighborsCount = neighborsCounting(i, j);
             if (neighborsCount == 3) {
                 noteArrayCreating[i][j] = 1;
             }
             if (neighborsCount == 2) {
-                noteArrayCreating[i][j] = 1;
+                noteArrayCreating[i][j] = noteArray[i][j];
             }
-            if (neighborsCount < 2 || neighborsCount > 5) {
+            if (neighborsCount < 2 || neighborsCount > 3) {
                 noteArrayCreating[i][j] = 0;
             }
         }
@@ -128,10 +128,10 @@ function neighborsCounting(lineOfNote, columnOfNote) {
     if (noteArray[makingInfinityFieldMinus(lineOfNote) - 1][makingInfinityFieldPlus(columnOfNote) + 1] == 1) {
         count++;
     } //top-right
-    if (noteArray[makingInfinityFieldMinus(lineOfNote) - 1][makingInfinityFieldMinus(columnOfNote) - 1] == 1) {
+    if (noteArray[makingInfinityFieldPlus(lineOfNote) + 1][makingInfinityFieldMinus(columnOfNote) - 1] == 1) {
         count++;
     } //bottom-left
-    if (noteArray[makingInfinityFieldMinus(lineOfNote) - 1][makingInfinityFieldPlus(columnOfNote) + 1] == 1) {
+    if (noteArray[makingInfinityFieldPlus(lineOfNote) + 1][makingInfinityFieldPlus(columnOfNote) + 1] == 1) {
         count++;
     } //bottom-right
 
